@@ -1,4 +1,4 @@
-# The-Role-of-OSINT-in-Computer-Security-
+# The Role of OSINT in Computer Security
 ## Introduction 
 
 OSINT harnesses this wealth of data to enhance security measures, identify threats, and inform decision-making processes. This article delves into the mechanisms of OSINT, its applications in computer security, and how it can be leveraged to fortify defenses against cyber threats. 
